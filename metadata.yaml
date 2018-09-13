@@ -1,5 +1,8 @@
 _repo: Seta-Ilveilys-yhdessa-naytoksessa_51577
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Suomalainen, Samuli
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7732
     wikipedia: http://fi.wikipedia.org/wiki/Carl_Gustaf_Samuel_Suomalainen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51577#Seta-Ilveilys-yhdessa-naytoksessa
 gutenberg_issued: '2016-03-27'
 gutenberg_type: Text
 identifiers:
